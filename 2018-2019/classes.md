@@ -15,3 +15,14 @@
 * Build a simple circuit
 * Series vs Parallel
 * HW: Read Your Arduino
+
+### [2018-09-18](Class%20Examples/2018-09-18/)
+* Installing Arduino IDE
+* Review Blink program
+* Build Blink circuit
+* No HW: Yom Kipur
+
+### [2018-09-20](Class%20Examples/2018-09-20/)
+* Review blink circuit
+* Modify to traffic light circuit
+* HW: Program traffic light
