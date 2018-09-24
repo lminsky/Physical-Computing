@@ -26,3 +26,10 @@
 * Review blink circuit
 * Modify to traffic light circuit
 * HW: Program traffic light
+
+### [2018-09-24](Class%20Examples/2018-09-24/)
+* Review traffic light program
+* Introduce analogWrite
+* Introduce variables (int)
+* Introduce conditionals (if/then)
+* HW: Modify the code from class today to fade a light up and down. If you aren't able to make it work, write a comment in your code explaining what you tried and what your reasoning was. Submit your program before class tomorrow.
