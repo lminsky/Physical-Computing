@@ -33,3 +33,8 @@
 * Introduce variables (int)
 * Introduce conditionals (if/then)
 * HW: Modify the code from class today to fade a light up and down. If you aren't able to make it work, write a comment in your code explaining what you tried and what your reasoning was. Submit your program before class tomorrow.
+
+### [2018-09-25](Class%20Examples/2018-09-25/)
+* Review fading LED
+* Inspect Pulse Width Modulation (PWM) using the oscilloscope
+* HW: Read pages 193-205 (Switches, LEDs, and More) from Learn Electronics with Arduino. Build and test the circuit described.
