@@ -38,3 +38,8 @@
 * Review fading LED
 * Inspect Pulse Width Modulation (PWM) using the oscilloscope
 * HW: Read pages 193-205 (Switches, LEDs, and More) from Learn Electronics with Arduino. Build and test the circuit described.
+
+### [2018-09-27](Class%20Examples/2018-09-27/)
+* Review button
+* Introduce digitalRead, Serial.begin(), and Serial.println()
+* HW: Modify the code from class so that the LED is normally on, but when you press the button it turns off for three seconds. Additionally use Serial.println() to print if the LED is on or off.
