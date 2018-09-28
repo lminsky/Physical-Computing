@@ -43,3 +43,9 @@
 * Review button
 * Introduce digitalRead, Serial.begin(), and Serial.println()
 * HW: Modify the code from class so that the LED is normally on, but when you press the button it turns off for three seconds. Additionally use Serial.println() to print if the LED is on or off.
+
+### [2018-09-28](Class%20Examples/2018-09-28/)
+* Review 3 seconds light hw
+* Review the functions we've covered so far, Serial.begin, Serial.println, delay, pinMode, digitalRead, digitalWrite, analogWrite
+* Introduce for loops
+
