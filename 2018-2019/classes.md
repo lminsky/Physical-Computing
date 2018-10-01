@@ -49,3 +49,8 @@
 * Review the functions we've covered so far, Serial.begin, Serial.println, delay, pinMode, digitalRead, digitalWrite, analogWrite
 * Introduce for loops
 
+### [2018-10-01](Class%20Examples/2018-10-01/)
+* Review for loops
+* Consider possible issues with for loops (never execute, infinite loop, typos)
+* Loop through LEDs
+* HW: Modify the code from class so that when you push the button, each led turns on and off in sequence. See the video for an example. https://youtu.be/jLKJBXgc0ik
